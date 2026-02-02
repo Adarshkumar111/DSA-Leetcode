@@ -16,6 +16,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -28,10 +29,15 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
