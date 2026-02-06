@@ -21,6 +21,7 @@ this is dsa leetcode questions
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |
@@ -53,4 +55,8 @@ this is dsa leetcode questions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
