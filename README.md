@@ -7,6 +7,7 @@ this is dsa leetcode questions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -16,6 +17,7 @@ this is dsa leetcode questions
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -69,4 +71,8 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
