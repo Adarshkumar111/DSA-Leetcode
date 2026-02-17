@@ -94,4 +94,12 @@ this is dsa leetcode questions
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
