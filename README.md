@@ -27,6 +27,7 @@ this is dsa leetcode questions
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -48,10 +49,12 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
