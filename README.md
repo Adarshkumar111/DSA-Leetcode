@@ -104,4 +104,20 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
