@@ -22,6 +22,7 @@ this is dsa leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -107,10 +108,12 @@ this is dsa leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
@@ -120,4 +123,12 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
