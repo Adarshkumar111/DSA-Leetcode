@@ -49,6 +49,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Depth-First Search
 |  |
 | ------- |
