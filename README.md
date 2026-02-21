@@ -89,6 +89,7 @@ this is dsa leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -108,6 +109,7 @@ this is dsa leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Depth-First Search
