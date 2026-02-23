@@ -10,6 +10,7 @@ this is dsa leetcode questions
 | [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0696-count-binary-substrings](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ this is dsa leetcode questions
 | [0001-two-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -115,6 +117,7 @@ this is dsa leetcode questions
 | [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,4 +144,12 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
