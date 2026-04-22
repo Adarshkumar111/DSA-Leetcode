@@ -43,6 +43,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ this is dsa leetcode questions
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
