@@ -24,6 +24,7 @@ this is dsa leetcode questions
 | [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
