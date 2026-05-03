@@ -38,6 +38,7 @@ this is dsa leetcode questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
@@ -55,6 +56,7 @@ this is dsa leetcode questions
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
 | ------- |
