@@ -41,6 +41,7 @@ this is dsa leetcode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
@@ -61,6 +62,7 @@ this is dsa leetcode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
