@@ -33,6 +33,7 @@ this is dsa leetcode questions
 | [0198-house-robber](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@ this is dsa leetcode questions
 | [0035-search-insert-position](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -133,6 +135,7 @@ this is dsa leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
@@ -189,9 +192,14 @@ this is dsa leetcode questions
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Counting
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
