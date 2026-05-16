@@ -48,6 +48,7 @@ this is dsa leetcode questions
 | [1539-kth-missing-positive-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3024-type-of-triangle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -71,6 +72,7 @@ this is dsa leetcode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@ this is dsa leetcode questions
 | [0074-search-a-2d-matrix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Rolling Hash
 |  |
 | ------- |
