@@ -10,6 +10,7 @@ this is dsa leetcode questions
 | [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0696-count-binary-substrings](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -217,4 +218,8 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
