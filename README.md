@@ -7,6 +7,7 @@ this is dsa leetcode questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@ this is dsa leetcode questions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -116,6 +118,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0242-valid-anagram) |
