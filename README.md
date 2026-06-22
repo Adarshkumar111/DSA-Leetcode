@@ -39,6 +39,7 @@ this is dsa leetcode questions
 | [0064-minimum-path-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0198-house-robber) |
@@ -170,6 +171,7 @@ this is dsa leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
