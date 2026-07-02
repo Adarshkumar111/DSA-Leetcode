@@ -101,6 +101,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -251,4 +252,8 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
