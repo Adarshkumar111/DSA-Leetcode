@@ -40,6 +40,7 @@ this is dsa leetcode questions
 | [0035-search-insert-position](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0162-find-peak-element) |
@@ -91,6 +92,7 @@ this is dsa leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -112,6 +114,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
