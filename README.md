@@ -33,6 +33,7 @@ this is dsa leetcode questions
 | [0001-two-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -88,6 +89,7 @@ this is dsa leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -109,6 +111,7 @@ this is dsa leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
