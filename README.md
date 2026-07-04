@@ -47,6 +47,7 @@ this is dsa leetcode questions
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -77,6 +78,7 @@ this is dsa leetcode questions
 | [0069-sqrtx](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -143,6 +145,7 @@ this is dsa leetcode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Queue
 |  |
@@ -173,6 +176,7 @@ this is dsa leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
