@@ -17,6 +17,7 @@ this is dsa leetcode questions
 | [0696-count-binary-substrings](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -25,6 +26,7 @@ this is dsa leetcode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
