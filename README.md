@@ -105,6 +105,7 @@ this is dsa leetcode questions
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -133,6 +134,7 @@ this is dsa leetcode questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
