@@ -19,10 +19,8 @@ public:
         }
         int mid=cnt/2;
         temp=head;
-        int i=0;
-        while(i<mid){
+        for(int i=0; i<mid; i++){
             temp=temp->next;
-            i++;
         }
         return temp;
     }
