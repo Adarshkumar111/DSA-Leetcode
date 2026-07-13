@@ -25,6 +25,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -55,6 +56,7 @@ this is dsa leetcode questions
 | [0410-split-array-largest-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -145,6 +147,7 @@ this is dsa leetcode questions
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -273,4 +276,8 @@ this is dsa leetcode questions
 | ------- |
 | [0050-powx-n](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
