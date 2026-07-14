@@ -27,6 +27,7 @@ this is dsa leetcode questions
 | [0020-valid-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -59,6 +60,7 @@ this is dsa leetcode questions
 | [0485-max-consecutive-ones](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -284,4 +286,5 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
