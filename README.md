@@ -107,6 +107,7 @@ this is dsa leetcode questions
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -130,6 +131,7 @@ this is dsa leetcode questions
 | [0015-3sum](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +145,7 @@ this is dsa leetcode questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -183,6 +186,7 @@ this is dsa leetcode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -292,4 +296,8 @@ this is dsa leetcode questions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
