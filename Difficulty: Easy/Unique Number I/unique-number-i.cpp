@@ -2,15 +2,12 @@ class Solution {
   public:
     int findUnique(vector<int> &arr) {
         // code here
-        unordered_map<int, int>mp;
+        int n=arr.size();
+        int xr=arr[0];
+        for(int i=1; i<n; i++){
+            xr=xr^arr[i];
+        }
+        return xr;
         
-        for(int i = 0; i < arr.size(); i++){
-            mp[arr[i]]++;
-        }
-        for(int i=0; i<arr.size(); i++){
-           if( mp[arr[i]]==1) 
-           return arr[i];
-        }
-        return -1;
     }
 };
