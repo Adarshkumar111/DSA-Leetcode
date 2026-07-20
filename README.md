@@ -221,6 +221,7 @@ this is dsa leetcode questions
 | [0136-single-number](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adarshkumar111/DSA-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
