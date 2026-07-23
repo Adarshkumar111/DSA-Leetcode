@@ -1,14 +1,17 @@
 class Solution {
-  public:
+public:
+
+    int digitSum(int n) {
+        if (n == 0)
+            return 0;
+
+        return (n % 10) + digitSum(n / 10);
+    }
+
     int digitalRoot(int n) {
-        // code here
-        if(n<10) return n;
-        
-        int sum=0;
-        while(n>0){
-            sum=sum+n%10;
-            n=n/10;
-        }
-        digitalRoot(sum);
+        if (n < 10)
+            return n;
+
+        return digitalRoot(digitSum(n));
     }
 };
